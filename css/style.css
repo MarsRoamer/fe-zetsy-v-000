@@ -56,7 +56,7 @@ h1 {
 }
 
 header {
-  border-bottom: 1px solid blue;
+  border-bottom: 1px solid #ccc;
 }
 
 header a {
